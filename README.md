@@ -1,4 +1,25 @@
-## Hi there 👋
+## Welcome!
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=TimochiL.TimochiL)
+
+### 😁 I'm Timothy Liu!
+
+- I'm currently pursuing a BS CS at the [University of Texas at Austin](https://www.utexas.edu/). 🤘
+- Previously an assistant Machine Learning (ML) Researcher with **Johns Hopkins University** and Web Applications Intern with **Fort Bend County**.
+
+### More About Me!
+
+```Python 
+languages = ['Python', 'MATLAB', 'Java', 'C++', 'C#', 'HTML', 'CSS', 'JavaScript', 'TypeScript']
+technologies = ['React', 'Vite', 'Vercel', 'Node.js']
+machineLearning = ['PyTorch', 'CUDA']
+```
+
+### 👤 Contact
+
+<a href="https://www.linkedin.com/in/timothy-x-liu/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+
 
 <!--
 **TimochiL/TimochiL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
