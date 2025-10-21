@@ -4,8 +4,9 @@
 
 ### 😁 I'm Timothy Liu!
 
-- I'm currently pursuing a BS CS at the [University of Texas at Austin](https://www.utexas.edu/). 🤘
-- Previously an assistant Machine Learning (ML) Researcher with **Johns Hopkins University** and Web Applications Intern with **Fort Bend County**.
+- Currently pursuing a BS CS at the [University of Texas at Austin](https://www.utexas.edu/). 🤘
+- Current Developer Fellow on UT Mobilize @ Longhorn Developers
+- Previously an assistant Machine Learning (ML) Researcher at **Johns Hopkins University** and Web Applications Intern at **Fort Bend County**.
 
 ### More About Me!
 
