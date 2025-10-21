@@ -1,11 +1,9 @@
-## Welcome!
+# 😁 Hi, I'm Timothy Liu!
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=TimochiL.TimochiL)
 
-### 😁 I'm Timothy Liu!
-
 - Currently pursuing a BS CS at the [University of Texas at Austin](https://www.utexas.edu/). 🤘
-- Current Developer Fellow on UT Mobilize @ Longhorn Developers
+- Current Developer Fellow on **UT Mobilize @ Longhorn Developers**
 - Previously an assistant Machine Learning (ML) Researcher at **Johns Hopkins University** and Web Applications Intern at **Fort Bend County**.
 
 ### More About Me!
@@ -19,8 +17,6 @@ machineLearning = ['PyTorch', 'CUDA']
 ### 👤 Contact
 
 <a href="https://www.linkedin.com/in/timothy-x-liu/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-
 
 <!--
 **TimochiL/TimochiL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
