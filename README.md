@@ -2,7 +2,7 @@
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=TimochiL.TimochiL)
 
-- Currently pursuing a BS CS at the [University of Texas at Austin](https://www.utexas.edu/). 🤘
+- Currently pursuing a BS in CS at the [University of Texas at Austin](https://www.utexas.edu/). 🤘
 - Current Developer Fellow on **UT Mobilize @ Longhorn Developers**
 - Previously an assistant Machine Learning (ML) Researcher at **Johns Hopkins University** and Web Applications Intern at **Fort Bend County**.
 
