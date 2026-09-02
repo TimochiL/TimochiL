@@ -4,13 +4,14 @@
 
 - Currently pursuing a BS in CS at the [University of Texas at Austin](https://www.utexas.edu/). 🤘
 - Current Developer Fellow on **UT Mobilize @ Longhorn Developers**
-- Previously an assistant Machine Learning (ML) Researcher at **Johns Hopkins University** and Web Applications Intern at **Fort Bend County**.
+- Previously a Software Developer Intern at _IBM_ and an assistant Machine Learning (ML) Researcher at _Johns Hopkins University_.
 
 ### More About Me!
 
 ```Python 
-languages = ['Python', 'MATLAB', 'Java', 'C++', 'C#', 'HTML', 'CSS', 'JavaScript', 'TypeScript']
-technologies = ['React', 'Vite', 'Vercel', 'Node.js']
+languages = ['Python', 'Java', 'C#', 'C', 'C++', 'HTML', 'CSS', 'JavaScript', 'TypeScript', SQL]
+technologies = ['Kubernetes', 'Cloudflare', 'React', 'Vite', 'Vercel', 'Node.js']
+softwareEngineering = ['API Gateways', 'Agent Orchestration']
 machineLearning = ['PyTorch', 'CUDA']
 ```
 
